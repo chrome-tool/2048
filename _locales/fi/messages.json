@@ -1,0 +1,8 @@
+{
+   "description": {
+      "message": "Pelaa 2048 -peliä verkossa. Pelaa 2048 -peliä offline -tilassa. Liity numeroihin ja päästä 2048 -laattaan!"
+   },
+   "name": {
+      "message": "2048 - Klassiset pelit"
+   }
+}
